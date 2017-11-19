@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="19be93c3-f167-4d2a-aaa5-fe4074b139b3">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:hotel</introspection-schemas>
+    </data-source>
+  </component>
+</project>
